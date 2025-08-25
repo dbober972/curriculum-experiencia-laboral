@@ -1,4 +1,4 @@
-const elementos = [
+/*const elementos = [
   {
     id: "border1",
     mouseover: el => el.style.boxShadow = "3px 3px 3px red ",
@@ -82,11 +82,11 @@ colorcambiar.addEventListener("mouseout", () => {
 
 });*/
 
-document.addEventListener("DOMContentLoaded", () => {
+/*document.addEventListener("DOMContentLoaded", () => {
   const enlacepersonal = document.getElementById("habilidades_personales");
 
   enlacepersonal.addEventListener("click", (e) => {
     e.preventDefault();
     document.getElementById("habilidades_personal").scrollIntoView({ behavior: "smooth" });
   })
-})
+})*/
